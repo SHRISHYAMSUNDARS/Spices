@@ -1,2 +1,2 @@
 # Spices
-UI Regarding Spices
+UI for Spices Websites
